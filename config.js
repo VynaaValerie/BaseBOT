@@ -17,7 +17,7 @@ export const config = Object.freeze({
 
   // URL proyek Vercel Anda (opsional, jika diisi tidak perlu ketik URL lagi saat `npm run set-webhook`)
   // Contoh: "https://evalyn-bot.vercel.app"
-  vercelUrl: "",
+  vercelUrl: "https://basebotvercel.vercel.app",
 
   // Batasi hanya owner yang dapat menggunakan bot
   // true = hanya ID owner yang direspons, false = publik (semua user bisa pakai)
