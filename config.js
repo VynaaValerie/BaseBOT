@@ -4,7 +4,7 @@
  */
 export const config = Object.freeze({
   // Token bot Telegram dari @BotFather
-  botToken: "7566732177:AAE-T7PHhqiP-so74HZUBVuHlTcusiMbGr8",
+  botToken: "",
 
   // ID Telegram Pemilik (Owner)
   ownerChatId: "1618920755",
